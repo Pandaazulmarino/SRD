@@ -128,8 +128,7 @@ preguntas = [
         'respuesta_correcta': '12'
     },
     {
-        
-        'grado': 10,
+        'grado': 10, 
         'tipo': 'texto',
         'pregunta': 'Héctor ha gastado el 40% de sus ahorros y le han dado a su hermana el 30% de lo que aún tenia. El porcentaje que conserva Héctor de sus ahorros es:',
         'opciones': ['25%', '30%', '42%', '38%'],
