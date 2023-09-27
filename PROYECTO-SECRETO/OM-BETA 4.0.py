@@ -145,7 +145,7 @@ preguntas = [
 
 
 
-
+    #voy a llorar por que no te quieres casar conmigo
 
 
 
