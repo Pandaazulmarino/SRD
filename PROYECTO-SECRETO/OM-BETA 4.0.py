@@ -14,7 +14,7 @@ def sonido():
 
     canal_fondo.play(fondo_musical, loops=-1)
 
-sonido()
+#sonido()
 
 def detener_audio():
     pygame.mixer.music.stop()
@@ -53,7 +53,7 @@ preguntas = [
     {
         'grado': 11,
         'tipo': 'texto',
-        'pregunta': 'El área de la puerta de un edificio mide 4,32 m^2 y su altura es de 2,40 m ¿Cuánto mide su ancho?',
+        'pregunta': 'El área de la puerta de un edificio mide 4,32 m^2 y su altura es de 2,40 m, ¿Cuánto mide su ancho?',
         'opciones': ['1,80 m', '2,00 m', '1,50 m', '1,90 m'],
         'respuesta_correcta': '1,80 m'
     },
@@ -67,7 +67,7 @@ preguntas = [
     {
         'grado': 10,
         'tipo': 'texto',
-        'pregunta': 'Un ladrillo más medio ladrillo vale 90 pesos ¿Cuánto  costarán 10 ladrillos',
+        'pregunta': 'Un ladrillo más medio ladrillo vale 90 pesos, ¿Cuánto  costarán 10 ladrillos',
         'opciones': ['900 pesos', '300 pesos', '600 pesos', '450 pesos'],
         'respuesta_correcta': '600 pesos'
     },
@@ -293,7 +293,7 @@ preguntas = [
         'grado': 9,
         'tipo': 'texto',
         'pregunta': 'en la siguiente secuencia: 54,49,X, 39,34... El número que se debe remplazar por X es:',
-        'opciones': ['47', '44', '45a', '42'],
+        'opciones': ['47', '44', '45', '42'],
         'respuesta_correcta': '44'
     },
 
