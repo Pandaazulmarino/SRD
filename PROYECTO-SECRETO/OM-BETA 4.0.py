@@ -273,7 +273,7 @@ preguntas = [
         'tipo': 'texto',
         'pregunta': 'un estudiante realiza las operaciones de un problema en su calculadora y redondeo el resultado a 48,2. El redondeo lo hizo respecto a las céntimas más proximas. ¿Cuál de los siguientes números es el más aproximado al que obtuvo en la calculadora?',
         'opciones': ['48,141', '48,269', '48,189', '48,043'],
-        'respuesta_correcta': '48,189'
+        'respuesta_correcta': '48,189' 
     },
     {
         'grado': 10,
